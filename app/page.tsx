@@ -9,7 +9,7 @@ export default function Page() {
           Dashboard Overview
         </h1>
         <p className="text-lg text-slate-300">
-          Welcome back! Here's what's happening with your projects today.
+          Welcome back! Here is what is happening with your projects today.
         </p>
       </header>
 
